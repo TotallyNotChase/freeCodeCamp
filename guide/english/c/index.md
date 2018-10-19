@@ -113,6 +113,7 @@ Make a new program with `file` -> `new` -> `Source File`, then copy over the hel
 
 ## A review
 * C is lingua franca of programming languages.
+* C was created by Dennis Ritchie and Brian Kernighan in 1972.
 * C was used to re-implement the Unix operating system.
 * C is useful because it's small, fast, and has access to low-level operations. Because of this, it gets used a lot in robotics, operating systems, and consumer electronics, but not in things like webpages.
 * A C program has a few critical parts:
